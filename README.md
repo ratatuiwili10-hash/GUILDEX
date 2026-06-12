@@ -5,4 +5,4 @@ llamado GUILDEX, usando C++. El sistema permite registrar miembros, administrar 
 inventario compartido y gestionar misiones. El proyecto debe desarrollarse de forma
 colaborativa usando Git, con una rama por integrante.
 
-> E. Flores, E. A. Flores, L. Á. Maldonado
+> E. Flores, E. A. Flores, L. Á. Maldonado, Привет! Этот репозиторий был взломан!
